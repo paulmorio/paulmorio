@@ -1,6 +1,6 @@
 ### Hello there!
 
-I am a PhD student at the University of Cambridge (edit: thesis defended and looking for a job!). I work on deep learning with graph-structured data, mostly within biomedical contexts but also in many others! I like thinking about,and working with, complex and dynamic systems at various scales.
+I am a PhD student at the University of Cambridge (**edit: thesis defended and looking for a job!**). I work on deep learning with graph-structured data, mostly within biomedical contexts but also in many others! I like thinking about,and working with, complex and dynamic systems at various scales.
 
 - I am currently doing things with multi-omics data, relational deep learning, and networks for work/research. For fun, I am currently studying generative modelling and multi-agent systems.
 
