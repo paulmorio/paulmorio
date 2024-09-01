@@ -4,7 +4,7 @@ I am a PostDoc at the University of Cambridge. I work on deep learning with grap
 
 - I am currently doing things with multi-omics data, relational deep learning, and networks for work/research. For fun, I am currently studying generative modelling and multi-agent systems (some werid non-research projects to arrive here soon).
 
-- 🌱 I’m currently working on [PyRelational](https://github.com/RelationRx/pyrelational), a one-stop shop for constructing active learning pipelines.
+- I’m currently working on [PyRelational](https://github.com/RelationRx/pyrelational), a one-stop shop for constructing active learning pipelines.
   - PyRelationAL supports:
     - Construction of complex active learning pipelines
     - Development of novel acquisition functions / strategies / batching methods
