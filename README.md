@@ -1,8 +1,8 @@
 ### Hello there!
 
-I am a PostDoc at the University of Cambridge. I work on deep learning with graph-structured data, mostly within biomedical contexts but also in many others! I like thinking about,and working with, complex and dynamic systems at various scales.
+I am a ML Scientist at [Relation Therapeutics](https://www.relationrx.com/). I work on deep learning with graph-structured data, mostly within biomedical contexts but also in many others! I like thinking about,and working with, complex and dynamic systems at various scales.
 
-- I am currently doing things with multi-omics data, relational deep learning, and networks for work/research. For fun, I am currently studying generative modelling and multi-agent systems (some werid non-research projects to arrive here soon).
+- I am currently doing things with multi-omics data, relational deep learning, and networks for work/research. For fun, I am currently studying generative modelling and multi-agent systems (some weird non-research projects to arrive here soon).
 
 - I’m currently working on [PyRelational](https://github.com/RelationRx/pyrelational), a one-stop shop for constructing active learning pipelines.
   - PyRelationAL supports:
